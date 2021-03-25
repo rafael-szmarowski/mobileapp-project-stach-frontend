@@ -1,0 +1,1 @@
+export const IP_ADDRESS = "https://mighty-journey-97061.herokuapp.com";
